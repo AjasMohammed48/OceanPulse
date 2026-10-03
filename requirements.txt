@@ -1,0 +1,12 @@
+numpy
+pandas
+xarray
+dask
+zarr
+scipy
+netCDF4
+plotly
+fastapi
+uvicorn
+pydantic
+httpx
