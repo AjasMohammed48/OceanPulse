@@ -1,0 +1,41 @@
+OceanPulse/
+│
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── .env.example
+│
+├── oceanpulse/
+│   ├── config.py
+│   ├── anomaly.py
+│   ├── analysis.py
+│   ├── physics.py
+│   ├── uncertainty.py
+│   ├── performance.py
+│   ├── plots.py
+│   └── ...
+│
+├── api/
+│   ├── main.py
+│   ├── cache.py
+│   └── routers/
+│       ├── dashboard.py
+│       ├── chat.py
+│       ├── heatmap.py
+│       ├── heatwaves.py
+│       ├── trends.py
+│       └── argo.py
+│
+├── oceanpulse-ui/
+│   ├── app/
+│   ├── components/
+│   ├── public/
+│   └── package.json
+│
+├── notebooks/
+│
+├── docs/
+│   └── images/
+│
+└── Data/
+    └── README.md
