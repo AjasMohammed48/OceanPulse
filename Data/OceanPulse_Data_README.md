@@ -35,10 +35,3 @@ The application reads processed Zarr/Parquet assets from the data directory, inc
 - Seasonal climatology
 - Basin metrics
 
-## Reproducing the data
-
-The public repository should document the exact source and processing procedure used to create these files.
-
-Do not commit large raw/processed datasets directly to normal Git history.
-
-If a specific dataset is necessary for a reproducible demo, provide a small sample dataset or a documented external download location.
