@@ -1,4 +1,4 @@
-# 🌊 OceanPulse — Physics-Constrained Ocean Intelligence
+🌊 OceanPulse — Physics-Constrained Ocean Intelligence
 
 OceanPulse is a full-stack ocean intelligence platform designed to monitor, analyze, and visualize environmental conditions across the Indian Ocean using multi-source oceanographic and atmospheric data.
 
